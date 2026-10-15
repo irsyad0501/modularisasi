@@ -19,3 +19,4 @@ console.log(kumpulanFunction.hitungPanjang('Kopi'));
 console.log(kumpulanFunction.keHurufBesar('halo'));   
 console.log(kumpulanFunction.keHurufKecil('WORLD'));  
 console.log(kumpulanFunction.cekGenap(8));      
+

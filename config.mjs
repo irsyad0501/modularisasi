@@ -14,3 +14,4 @@ export const objectFunction = () => ({
   keHurufKecil: (str) => str.toLowerCase(),
   cekGenap: (n) => n % 2 === 0
 });
+
